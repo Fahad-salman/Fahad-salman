@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fahad-salman
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning ...
+-  Hi, I’m @Fahad-salman
+-  I’m interested in Flutter
+-  I’m currently learning ...
 
  <!---
 - 💞️ I’m looking to collaborate on ...
