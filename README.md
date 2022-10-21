@@ -1,6 +1,11 @@
 -  Hi, I’m @Fahad-salman
+-  Linkedin : https://www.linkedin.com/in/fahad-alsaigh-2995321b6
+-  Twitter account : @Fahadupd
 -  I’m interested in Flutter
--  I’m currently learning ...
+-  I’m currently learning
+-  I worked on two apps and they are under construction
+-  The first application is commercial
+-  The second application is education
 
  <!---
 - 💞️ I’m looking to collaborate on ...
