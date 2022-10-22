@@ -3,7 +3,7 @@
 -  Twitter account : @Fahadupd
 -  I’m interested in Flutter
 -  I’m currently learning
--  I worked on two apps and they are under construction
+-  Working on two apps under construction
 -  The first application is commercial
 -  The second application is education
 
