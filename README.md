@@ -2,7 +2,7 @@
 -  Linkedin : https://www.linkedin.com/in/fahad-alsaigh-2995321b6
 -  Twitter : @Fahadupd
 -  TikTok : @Fahadupd
--  I’m interested in Dart,Flutter
+-  interested in Dart, Flutter, Python 
 -  I’m currently learning
 -  Working on two apps under construction
 -  The first application is commercial
