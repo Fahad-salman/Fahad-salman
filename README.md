@@ -4,9 +4,9 @@
 -  TikTok : @Fahadupd
 -  interested in Dart, Flutter, Python 
 -  I’m currently learning
--  Working on two apps under construction
--  The first application is commercial
--  The second application is education
+<!-- -  Working on two apps under construction -->
+<!-- -  The first application is commercial -->
+<!-- -  The second application is education -->
 
  <!---
 - 💞️ I’m looking to collaborate on ...
