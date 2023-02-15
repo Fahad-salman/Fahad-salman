@@ -1,7 +1,7 @@
 -  Hi, I’m @Fahad-salman
--  Linkedin : https://www.linkedin.com/in/fahad-alsaigh-2995321b6
+-  Linkedin : <a href="https://www.linkedin.com/in/fahad-alsaigh-2995321b6">Fahad Alsaigh</a>
 -  Twitter : <a href="https://twitter.com/fahadupd?s=21&t=xEssjpE1eGNOBVelxnnbuw">@Fahadupd</a>
--  TikTok : @Fahadupd
+-  TikTok : <a href="https://www.tiktok.com/@fahadupd?is_from_webapp=1&sender_device=pc">@Fahadupd</a>
 -  interested in Dart, Flutter, Python, ReactJs
 -  I’m currently learning
 <!-- -  Working on two apps under construction -->
